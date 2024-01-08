@@ -1,4 +1,4 @@
-PROJECT OUTLINE
+## PROJECT OUTLINE
 In this repository are located all the notebooks, scripts and data used for the Python Driving License (PDL) final project. Specifically, you can find here:
 * `Install required packages.ipynb` is a jupyter notebook file containing the necessary code lines for the installation of packages needed for the main script.
 * `PM10_model.ipynb` is a jupyter notebook file containing the central body of the project. This notebook will be used for the presentation on Wed 10/01/2024.
